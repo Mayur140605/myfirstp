@@ -1,3 +1,3 @@
 # myfirstp
 setting up git hub
-author-mayur warghade
+author-mayur warghade (sy19)
